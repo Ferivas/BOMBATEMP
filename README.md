@@ -12,7 +12,7 @@ La configuración de los valores de umbral se realiza mediante comandos seriales
 
 ## SENSOR DE TEMPERATURA
 El modelo de sensor del DS18B20 utilizado es el mostrado en la figura siguiente:
-<img width="800" alt="Sensor de Temperatura" src="https://github.com/Ferivas/BOMBATEMP/blob/main/DOCS/DS18b20.jpg">
+<img width="800" alt="Sensor de Temperatura" src="https://github.com/Ferivas/BOMBATEMP/blob/main/DOCS/DS18B20.jpg">
 
 el cual tiene un precio referencial en esta página 
 
